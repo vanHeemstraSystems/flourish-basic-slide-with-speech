@@ -14,3 +14,9 @@ See https://app.flourish.studio/visualisation/11579689/edit (after having logged
 
 ![Screenshot 2022-10-25 091943](https://user-images.githubusercontent.com/1499433/197708893-211779a4-377a-43f0-bb55-4cb3901a538b.png)
 
+Preview mode (Data mode is disabled)
+
+## 300 - Create a Story with Web UI Basic Slide
+
+![Screenshot 2022-10-25 092227](https://user-images.githubusercontent.com/1499433/197709455-ceaf64f7-999e-44b5-8905-d0e2160f9d4e.png)
+
