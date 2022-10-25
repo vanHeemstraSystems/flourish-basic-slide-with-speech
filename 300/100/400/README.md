@@ -14,7 +14,9 @@ See our Basic Slide at https://github.com/vanHeemstraSystems/flourish-basic-slid
 
 ## 200 - Under Audio/autoplay choose Enabled
 
-More ...
+![Screenshot 2022-10-25 095918](https://user-images.githubusercontent.com/1499433/197717253-8bdcdd93-5939-454c-a22e-331cb4aed48d.png)
+
+Slide the slider to ```Enabled``` for **Autoplay story**, in the story editor. 
 
 ## 300 - Upload your voiceover as an MP3 file
 
