@@ -13,3 +13,7 @@ Upload the downloaded voice-recording (here .WAV format) to our Flourish Basic S
 Click the button **Upload audio** and select the downloaded voice-recording (switch to "All Files" if the .WAV file is not listed).
 
 You may notice that the duration of the slide is adjusted to the length of the audio (here: 5 seconds).
+
+Push the **Play** button (forward pointing arrow in black circle) to review the slide with audio.
+
+![Screenshot 2022-10-25 102625](https://user-images.githubusercontent.com/1499433/197723218-2b5ce8a1-5823-4e2b-99f9-adce3d9020c1.png)
