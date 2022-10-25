@@ -24,6 +24,7 @@ See [README.md](./300/README.md)
 
 ## 400 - Set durations for each slide to line up visuals with the audio
 
+See [README.md](./400/README.md)
 
 ## 500 - Hit Publish to share or embed
 
