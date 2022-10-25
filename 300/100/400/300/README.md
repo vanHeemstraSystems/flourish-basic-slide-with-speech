@@ -8,4 +8,8 @@ Browse to https://cloud.google.com/text-to-speech/docs/voices and download Engli
 
 Upload the downloaded voice-recording (here .WAV format) to our Flourish Basic Slide as follows:
 
-....
+![Screenshot 2022-10-25 102140](https://user-images.githubusercontent.com/1499433/197722229-68a2afca-1f52-49a9-987c-1972960b2b29.png)
+
+Click the button **Upload audio** and select the downloaded voice-recording (switch to "All Files" if the .WAV file is not listed).
+
+You may notice that the duration of the slide is adjusted to the length of the audio (here: 5 seconds).
