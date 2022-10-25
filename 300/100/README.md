@@ -22,5 +22,4 @@ Preview mode (Data mode is disabled)
 
 ## 400 - Adding a Voice a Story with Web UI Basic Slide
 
-See https://help.flourish.studio/article/105-how-to-create-an-audio-driven-story-in-flourish
-
+See [README.md](./400/README.md)
