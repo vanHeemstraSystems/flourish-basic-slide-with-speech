@@ -10,7 +10,7 @@ To create your own talkie,
 
 ## 100 - Create a Flourish Story with as many slide as you like
 
-See our Basic Slide at 
+See our Basic Slide at https://github.com/vanHeemstraSystems/flourish-basic-slide-with-speech/tree/main/300/100
 
 ## 200 - Under Audio/autoplay choose Enabled
 
