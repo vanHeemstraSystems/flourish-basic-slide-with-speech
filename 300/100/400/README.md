@@ -20,7 +20,7 @@ Slide the slider to ```Enabled``` for **Autoplay story**, in the story editor.
 
 ## 300 - Upload your voiceover as an MP3 file
 
-
+See [README.md](./300/README.md)
 
 ## 400 - Set durations for each slide to line up visuals with the audio
 
