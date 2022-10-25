@@ -29,3 +29,7 @@ See [README.md](./400/README.md)
 ## 500 - Hit Publish to share or embed
 
 See [README.md](./500/README.md)
+
+## 600 - Embedding slides to a Presentation
+
+See [README.md](./600/README.md)
