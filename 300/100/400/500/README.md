@@ -13,9 +13,3 @@ Alternatively, you can embed the presentation in a web page using below code:
 ```
 <div class="flourish-embed" data-src="story/1722990"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ```
-
-See how you can embed this presentation in:
-
-- PowerPoint:
-- Google Slides:
-- Canva: 
